@@ -1,6 +1,6 @@
 # VisionaryText: Edge OCR & AI Assistant
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/VisionaryText-20251025-032615)
 
 VisionaryText is a cutting-edge web application designed to empower users with seamless Optical Character Recognition (OCR) capabilities directly from their browser, enhanced by intelligent AI assistance. Built on Cloudflare Workers and a React/Vite frontend, it offers a visually stunning and intuitively designed experience. Users can upload images or provide image URLs, perform OCR to extract text, and then leverage an integrated AI assistant to process, summarize, or query the extracted content. The application prioritizes a human-centered, whimsical, and expressive aesthetic with custom illustrations and playful elements, making complex tasks delightful. It's built as a single-page application focused on a core OCR workflow, with potential for expansion into advanced document analysis and interactive AI dialogues.
 
@@ -110,4 +110,4 @@ To deploy VisionaryText to Cloudflare Workers:
 
 Alternatively, you can use the Cloudflare Deploy Button:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/VisionaryText-20251025-032615)
